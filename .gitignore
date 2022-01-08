@@ -1,0 +1,12 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+compile_commands.json
+.clangd
+.cache
+Adafruit_SSD1331_MbedOS6
+Adafruit-GFX-MbedOS6
